@@ -1,7 +1,7 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-This is Rahul here and I am currently doing my internship in **Data Science & Business Analytics** from **The Sparks Foundation, Singapore**. 
-I am also a freelance web developer & a graphic designer. My hobbies are photography, drawing, blogging .
+This is **Rahul Kumar** here and I am currently doing my internship in **Data Science & Business Analytics** from **The Sparks Foundation, Singapore**. 
+I am also a **Freelance Web developer & a graphic designer**. My hobbies are writing, drawing, blogging .
 
 - 🔭 I’m currently working on **WordPress Project**
 - 🌱 I’m currently learning **Data Science & Business Analytics**

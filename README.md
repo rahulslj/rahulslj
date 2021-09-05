@@ -4,7 +4,7 @@ This is **Rahul Kumar** here and I am currently doing my internship in **Data Sc
 I am also a **Freelance Web developer & a graphic designer**. My hobbies are writing, drawing, blogging .
 
 - 🔭 I’m currently working on **WordPress Project**
-- 🌱 I’m currently learning **Data Science & Business Analytics**
+- 🌱 I’m currently learning **Data Science & Business Analytics **
 - 👯 I’m looking to collaborate on **Data Science & Open source projects**
 - 🤔 I’m looking for help with **Advanced Data Analytics Technologies**
 - 📃 My blogging website https://itsrahul.me/

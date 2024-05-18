@@ -7,7 +7,7 @@ I am also a **Freelance Web developer & a graphic designer**. My hobbies are wri
 - 🌱 I’m currently learning **Data Science & Business Analytics **
 - 👯 I’m looking to collaborate on **Data Science & Open source projects**
 - 🤔 I’m looking for help with **Advanced Data Analytics Technologies**
-- 📃 My blogging website https://itsrahul.me/
+- 📃 My blogging website https://itsrahul.in/
 - 💬 Ask me about: **Anything**
 - 😄 Pronouns: **He/His**
 - ⚡ Fun fact: **I am a workaholic** <br>

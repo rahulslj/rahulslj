@@ -3,14 +3,31 @@
 This is **Rahul Kumar** here and I am currently doing my internship in **Data Science & Business Analytics** from **The Sparks Foundation, Singapore**. 
 I am also a **Freelance Web developer & a graphic designer**. My hobbies are writing, drawing, blogging .
 
-- 🔭 I’m currently working on **WordPress Project**
-- 🌱 I’m currently learning **Data Science & Business Analytics **
+# 🌟 What I Bring to the Table
+📊 **Data Visualization:** Crafting visuals that distill complex datasets into clear, actionable insights.
+🔍 **Data Analytics:** Diving deep into numbers to uncover trends, patterns, and opportunities.
+🧼 **Data Cleaning & Modeling:** Ensuring data integrity through standardization, deduplication, and other essential techniques for high-quality analysis.
+📝 **Reporting & Dashboarding:** Developing dashboards that tell a story, making data engaging and informative.
+📈 **Business Intelligence:** Enabling strategic decisions through data-driven insights.
+📖 **Data Storytelling:** Transforming numbers into narratives that resonate with audiences.
+
+# 📍 Technical Skills
+📐 **Power BI:** Proficient in Power BI Desktop, Power Query, Data Modeling, DAX, ETL, Power BI Service, and creating engaging reports and dashboards.
+🛢️ **SQL:** Skilled in SQL Queries, Joins, CTEs, Window Functions, Aggregate Functions, and database management with MySQL and SQL Server.
+📊 **MS Excel:** Advanced knowledge in Excel functions, data cleaning, Pivot Tables & Charts, MIS Dashboarding, and Power Query.
+🐍 **Python:** Familiar with data manipulation and visualization using Numpy, Pandas, and Matplotlib.
+🛠️ **Other Tools:** Google Sheets, MS Office Suite, PowerPoint, and Canva for comprehensive data analysis and presentation.
+
+- 📊 Passionate about transforming raw data into actionable insights.
+- 🌱 Currently enhancing my **SQL skills**.
+- 💡 Skilled in crafting reports that don't just show numbers, but actually help you understand what they mean.
+- 🚀 Constantly seeking opportunities to solve real-world problems with data, one dashboard at a time.
+- 🌱 I’m currently learning **Data Science & Business Analytics**
 - 👯 I’m looking to collaborate on **Data Science & Open source projects**
 - 🤔 I’m looking for help with **Advanced Data Analytics Technologies**
-- 📃 My blogging website https://itsrahul.in/
+- 📃 My Portfolio website **https://itsrahul.in/**
 - 💬 Ask me about: **Anything**
-- 😄 Pronouns: **He/His**
-- ⚡ Fun fact: **I am a workaholic** <br>
+- 😄 Pronouns: **He/His** <br>
 
 
 ## 🚀 Skills
